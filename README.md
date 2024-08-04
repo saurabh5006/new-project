@@ -1,2 +1,2 @@
 # new-project
-clone of website
+clone of website.
